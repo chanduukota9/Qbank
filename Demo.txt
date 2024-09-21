@@ -1,0 +1,175 @@
+Software Testing tools - Demo 
+
+
+Why did you choose Testing Tools course?
+
+2008 = 16+years 
+
+M.Sc CS  57%
+
+6 months
+
+
+1. Java = 1 years + 6 months = 18 months
+
+2. .Net = 1 year + 3months = 15 months
+
+4. Network = 
+
+5. Testing Tools = 2 months course  + 1 month = 3 months 
+
+10 dev
+
+10 dev - 1 QA
+
+10 dev - 5 QA
+10 dev - 10 QA
+
+
+What to learn in Testing tools course to get a job:
+
+
+
+mandatory course:
+
+1. Manual Testing
+2. Automation Testing - Selenium
+3. Database knowledge
+
+Optional courses:
+
+1. WebService Testing/API testing
+2. Automation Testing - TOSCA
+
+CV
+
+FAQs
+
+What type of company it is ?
+
+WE have two types of Software Companies
+
+1. Service based 
+Infi 
+
+BankOf America
+JPMC
+Wellsfargo....
+2. Product based
+JPMC - only working on their products Banking
+UHG- only working on their insurance products
+
+Bank Of America:
+
+SReekar - BOA
+
+Vamsi - TCS
+
+JPMC
+
+Vamsi is from JPMC
+Vyshnavi from TCS
+
+1. HR Team
+2. Admin Team
+3. Network team
+4. Developers
+5. Testers
+	1. Functional Testing team
+	2. Autmation Testing Team
+			Selenium
+			ToSCA
+			UFT....
+	3. Database Testing Team
+	4. Performance Testing Team
+	5. Middleware Testers
+	6. ETL Testers...
+
+
+	Functional Automation QA
+
+6. Learning Team
+7. Accounts Team
+
+What types of projects are there?
+we have two types of projects
+
+1. Fixed bid
+Fixed Time and Cost 
+2. Non Fixed bid 
+Cost is fixed but time is not fixed
+
+JPMC   -----> TCS
+
+2 dev
+2 TEsters 
+
+hourly 20 $
+
+1 year 2 year 3 years
+
+Functional QA Responsibilities:
+
+1. Understanding software requirements
+2. Preparing RTM document for requirements
+3. Understanding Test plan document
+4. Involving in Test Case development
+5. Involving Test Case reviews like self review and peer review
+6. Involving in Test Case execution and Defect Reporting
+7. Involving in Sanity Testing, Functional Testing, ReTesting, Regression Testing, Smoke Testing and User
+Acceptance Testing
+8. Attending status calls
+9. Preparing status reports - Weekly Reports, Monthly Reprots
+
+Any Degree
+
+For freshers - Computer 
+Exp - Any degree 50%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
